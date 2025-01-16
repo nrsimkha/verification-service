@@ -22,7 +22,7 @@
 ## Установка и запуск
 1. Клонируйте репозиторий:
    ```bash
-   git clone <URL_репозитория>
+   git clone https://github.com/nrsimkha/verification-service
    ```
 2. Перейдите в директорию проекта:
    ```bash
